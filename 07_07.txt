@@ -1,0 +1,107 @@
+<arg0>
+  <discounts>
+    <type>retailer coupon</type>
+    <amount>$0.00</amount>
+  </discounts>
+  <lines>
+    <billingAddress>
+      <streetInformation>CC ONLY/18111 NORDHOFF ST</streetInformation>
+      <city>NORTHRIDGE</city>
+      <state>CA</state>
+      <postalCode>91330</postalCode>
+      <country>USA</country>
+    </billingAddress>
+    <customerId>LA1827078CCCSUNCSUN7|T</customerId>
+    <discounts>
+      <type>retailer coupon</type>
+      <amount>$0.00</amount>
+    </discounts>
+    <extendedAmount>$27.90</extendedAmount>
+    <lineNumber>1</lineNumber>
+    <locationOrderApproval>
+      <streetInformation>70 First Lake Drive</streetInformation>
+      <city>LOWER SACKVILLE</city>
+      <state>NS</state>
+      <postalCode>B4C3E4</postalCode>
+      <country>US</country>
+    </locationOrderApproval>
+    <locationOrderRecording>
+      <streetInformation>Bldg #6 CA Commerce Center</streetInformation>
+      <city>ONTARIO</city>
+      <state>CA</state>
+      <postalCode>91761</postalCode>
+      <country>US</country>
+    </locationOrderRecording>
+    <organizationCode>99</organizationCode>
+    <parentLineNumber>0</parentLineNumber>
+    <productId>689309</productId>
+    <quantity>3.0</quantity>
+    <shipFromAddress>
+      <streetInformation>11085 Olinda Street</streetInformation>
+      <city>SUN VALLEY</city>
+      <state>CA</state>
+      <postalCode>91352</postalCode>
+      <country>US</country>
+    </shipFromAddress>
+    <shipToAddress>
+      <streetInformation>18111 NORDHOFF ST</streetInformation>
+      <city>NORTHRIDGE</city>
+      <state>CA</state>
+      <postalCode>913308284</postalCode>
+      <country>USA</country>
+    </shipToAddress>
+    <transactionType>sale</transactionType>
+  </lines>
+  <lines>
+    <billingAddress>
+      <streetInformation>CC ONLY/18111 NORDHOFF ST</streetInformation>
+      <city>NORTHRIDGE</city>
+      <state>CA</state>
+      <postalCode>91330</postalCode>
+      <country>USA</country>
+    </billingAddress>
+    <customerId>LA1827078CCCSUNCSUN7|T</customerId>
+    <discounts>
+      <type>retailer coupon</type>
+      <amount>$0.00</amount>
+    </discounts>
+    <extendedAmount>$11.72</extendedAmount>
+    <lineNumber>2</lineNumber>
+    <locationOrderApproval>
+      <streetInformation>70 First Lake Drive</streetInformation>
+      <city>LOWER SACKVILLE</city>
+      <state>NS</state>
+      <postalCode>B4C3E4</postalCode>
+      <country>US</country>
+    </locationOrderApproval>
+    <locationOrderRecording>
+      <streetInformation>Bldg #6 CA Commerce Center</streetInformation>
+      <city>ONTARIO</city>
+      <state>CA</state>
+      <postalCode>91761</postalCode>
+      <country>US</country>
+    </locationOrderRecording>
+    <organizationCode>99</organizationCode>
+    <parentLineNumber>0</parentLineNumber>
+    <productId>512685</productId>
+    <quantity>2.0</quantity>
+    <shipFromAddress>
+      <streetInformation>11085 Olinda Street</streetInformation>
+      <city>SUN VALLEY</city>
+      <state>CA</state>
+      <postalCode>91352</postalCode>
+      <country>US</country>
+    </shipFromAddress>
+    <shipToAddress>
+      <streetInformation>18111 NORDHOFF ST</streetInformation>
+      <city>NORTHRIDGE</city>
+      <state>CA</state>
+      <postalCode>913308284</postalCode>
+      <country>USA</country>
+    </shipToAddress>
+    <transactionType>sale</transactionType>
+  </lines>
+  <deliveryAmount>0.0</deliveryAmount>
+  <transactionId>7178607413002001</transactionId>
+  <transactionSource>COM</transactionSource>
+</arg0>
